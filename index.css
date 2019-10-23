@@ -1,33 +1,70 @@
-*{
-    padding: 0;
-    margin: 0;
+.logo{
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-bottom: 55px;
+}
+.menu{
+    float: right;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-right: 44px;
+    padding-bottom: 55px;
+}
+.nav{
+    min-height: 120px;
 }
 a{
-    text-decoration: none;
-
+    padding-left: 44px;
 }
-li{
-    list-style: none;
-}
-header{
+.image{
+    background: url(./IMG/priroda.jpg);
     width: 100%;
-    background: white;
-    display: flex;
+    height: 655px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.header_logo{
+h1{
     text-transform: uppercase;
-    font-weight: 800;
-    font-size: 24px;
-    cursor: pointer;
-    margin-top: 50px;
-    margin-left: 12%;
-}
-main{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-.main_project{
+    font-weight: bold;
+    color: white;
+    padding-top: 182px;
     text-align: center;
-    
+    font-size: 36px;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.buttons{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 105px;
+}
+.services{
+    width: 220px;
+    background-color: firebrick;
+}
+.hire{
+    width: 220px;
+    background-color: rebeccapurple;
+}
+.slider{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 95px;
+}
+.slid{
+    background-color: green;
+}
+.maintex{
+    color: black;
+    text-align: center;
+}
+.aboutass{
+    text-align: center;
 }
