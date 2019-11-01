@@ -68,9 +68,6 @@ p{
 .aboutass{
     text-align: center;
 }
-.tree{
-    padding-bottom: 120px;
-}
 .ui{
     text-align: center;
     height: 200px;
@@ -112,19 +109,11 @@ p{
 }
 .topservices{
     text-align: center;
-}
-.research{
-    width: 270px;
-    height: 238px;
-    background-color: rebeccapurple;
-    color: white;
-    text-align: center;
-    padding: 100px 50px;
+    padding-bottom: 110px;
 }
 .navigation{
     padding-top: 100px;
-}
-.omg{
+    margin: 0 auto;
 }
 .omgwtf{
     color: white;
@@ -132,13 +121,153 @@ p{
     padding-left: 50px;
     padding-right: 50px;
 }
-
-.loxx{
-    display: block;
-    text-transform: uppercase;
-    border: 2px solid white;
-    height: 55px;
-    width: 150px;
+.research{
+    width: 250px;
+    height: 300px;
+    background-color: #00897b;
+    color: white;
     text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.names{
+    text-align: center;
+    color: white;
+}
+.readmore{
+    text-transform: uppercase;
+    padding-top: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 18px;
+    border: 2px solid white;
+}
+.portfolio{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.block{
+    background-color: #e4fdf9;
+    background-size: cover;
+}
+.secnames{
+    color:black;
+}
+.secreadmore{
+    color: black;
+    text-transform: uppercase;
+    padding-top: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 18px;
+    border: 2px solid black;
+}
+.support{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.six{
+    display: flex;
+    justify-content: space-around;
+}
+.secsix{
+    padding-top: 31px;
+    display: flex;
+    justify-content: space-around;
+}
+.extra{
+    background-color: #e4fdf9;
+    background-size: cover;
+    padding-bottom: 120px;
+}
+.documentation{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.development{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.design{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.kek{
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 130px;
+}
+.ggs{
     margin: 0 auto;
+    width: 690px;
+    padding-bottom: 110px;
+}
+.all{
+    text-transform: uppercase;
+    border: 2px none;
+    background-color: #00897b;
+    width: 100px;
+    height: 55px;
+    padding-top: 23px;
+}
+.foursqw{
+    display: flex;
+    justify-content: space-between;
+    width: 690px;
+    margin: 0 auto;
+}
+.another{
+    text-transform: uppercase;
+    color: black;
+    border: 2px solid #00897b;
+    width: 180px;
+    height: 55px;
+    padding-top: 19px;
+    text-align: center;
+}
+.pictures{
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    width: 370px;
+    height: 340px;
 }
