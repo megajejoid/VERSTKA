@@ -21,7 +21,7 @@ a{
     padding-left: 44px;
 }
 .image{
-    background: url(./IMG/priroda.jpg);
+    background: url(./IMG/BG.jpg);
     width: 100%;
     height: 655px;
     background-repeat: no-repeat;
@@ -47,11 +47,13 @@ p{
 }
 .services{
     width: 220px;
-    background-color: firebrick;
+    background: none;
+    border: 2px solid white;
 }
 .hire{
     width: 220px;
-    background-color: rebeccapurple;
+    background-color: #00897b;
+    border: 2px solid #00897b;
 }
 .slider{
     margin: 0 auto;
@@ -59,7 +61,11 @@ p{
     padding-top: 95px;
 }
 .slid{
-    background-color: green;
+    background:none;
+    color: white;
+    border: none;
+    height: 16px;
+    width: 23px;
 }
 .maintex{
     color: black;
@@ -158,6 +164,7 @@ p{
 .block{
     background-color: #e4fdf9;
     background-size: cover;
+    width: 100%;
 }
 .secnames{
     color:black;
@@ -266,6 +273,7 @@ p{
 .pictures{
     display: flex;
     justify-content: space-around;
+    padding-top: 30px;
 }
 .img{
     width: 370px;
@@ -274,4 +282,46 @@ p{
 .imgtwo{
     width: 370px;
     height: 340px;
+}
+.tovar{
+    padding-bottom: 125px;
+}
+.viewall{
+    text-align: center;
+    padding-bottom: 136px;
+}
+.view{
+    width: 220px;
+    height: 70px;
+    text-transform: uppercase;
+    background-color: #00897b;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+.block4{
+    background-color: #f0f1f1;
+    
+}
+.pricing{
+    padding-top: 126px;
+    padding-bottom: 124px;
+}
+.plan{
+    color: black;
+}
+.trail{
+    width: 370px;
+    height: 667px;
+    background:url(./IMG/blue.png);
+    background-repeat: no-repeat;
+}
+.bluemain{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+}
+.bluetext{
+    font-size: 36px;
 }
