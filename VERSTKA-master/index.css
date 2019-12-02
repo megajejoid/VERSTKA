@@ -1,0 +1,350 @@
+.logo{
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 55px;
+}
+.menu{
+    float: right;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-right: 44px;
+    padding-bottom: 55px;
+    color: black;
+}
+.nav{
+    min-height: 120px;
+}
+a{
+    padding-left: 44px;
+    text-decoration: none;
+    color:black;
+}
+.zadniy{
+    background: url(./IMG/BG.jpg);
+    width: 100%;
+    height: 655px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.zadniy2{
+    background: #e4fdf9;
+    width: auto;
+    background-size: cover;
+    padding-bottom: 120px;
+}
+.image{
+    background: url(./IMG/BG.jpg);
+    width: 100%;
+    height: 655px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    padding-top: 182px;
+    text-align: center;
+    font-size: 36px;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.buttons{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 105px;
+}
+.services{
+    width: 220px;
+    background: none;
+    border: 2px solid white;
+}
+.hire{
+    width: 220px;
+    background-color: #00897b;
+    border: 2px solid #00897b;
+}
+.hire2{
+    width: 220px;
+    background-color: white;
+    border: 2px solid white;
+}
+.slider{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 95px;
+}
+.slid{
+    background:none;
+    color: white;
+    border: none;
+    height: 16px;
+    width: 23px;
+}
+.maintex{
+    color: black;
+    text-align: center;
+}
+.aboutass{
+    text-align: center;
+}
+.ui{
+    text-align: center;
+    height: 200px;
+    width: 260px;
+    float: left;
+    padding-top: 85px;
+    padding-left: 170px;
+}
+.awesome{
+    color: black;
+    padding: 0;
+}
+.awesomee{
+    color: black;
+}
+.free{
+    text-align: center;
+    height: 200px;
+    width: 260px;
+    float: right;
+    padding-top: 85px;
+    padding-right: 170px;
+}
+.fui{
+    text-align: center;
+    height: 200px;
+    width: 260px;
+    margin: 0 auto;
+    padding-top: 85px;
+    padding-left: 145px;
+    padding-right: 145px;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.maintext{
+    text-align: center;
+}
+.maintext2{
+    color: white;
+}
+.topservices{
+    text-align: center;
+    padding-bottom: 110px;
+}
+.navigation{
+    padding-top: 100px;
+    margin: 0 auto;
+}
+.omgwtf{
+    color: white;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.research{
+    width: 250px;
+    height: 300px;
+    background-color: #00897b;
+    color: white;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.names{
+    text-align: center;
+    color: white;
+}
+.readmore{
+    text-transform: uppercase;
+    padding-top: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 18px;
+    border: 2px solid white;
+}
+.portfolio{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+
+.secnames{
+    color:black;
+}
+.secreadmore{
+    color: black;
+    text-transform: uppercase;
+    padding-top: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 18px;
+    border: 2px solid black;
+}
+.support{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.six{
+    display: flex;
+    justify-content: space-around;
+}
+.secsix{
+    padding-top: 31px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.documentation{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.development{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.design{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 58px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 58px;
+}
+.kek{
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 130px;
+}
+.ggs{
+    margin: 0 auto;
+    width: 690px;
+    padding-bottom: 110px;
+}
+.all{
+    text-transform: uppercase;
+    border: 2px none;
+    background-color: #00897b;
+    width: 100px;
+    height: 55px;
+    padding-top: 23px;
+}
+.foursqw{
+    display: flex;
+    justify-content: space-between;
+    width: 690px;
+    margin: 0 auto;
+}
+.another{
+    text-transform: uppercase;
+    color: black;
+    border: 2px solid #00897b;
+    width: 180px;
+    height: 55px;
+    padding-top: 19px;
+    text-align: center;
+}
+.pictures{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.img{
+    width: 370px;
+    height: 340px;
+}
+.imgtwo{
+    width: 370px;
+    height: 340px;
+}
+.tovar{
+    padding-bottom: 125px;
+}
+.viewall{
+    text-align: center;
+    padding-bottom: 136px;
+}
+.view{
+    width: 220px;
+    height: 70px;
+    text-transform: uppercase;
+    background-color: #00897b;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+.block4{
+    background-color: #f0f1f1;
+    
+}
+.pricing{
+    padding-top: 126px;
+    padding-bottom: 124px;
+}
+.plan{
+    color: black;
+}
+.trail{
+    width: 370px;
+    height: 667px;
+    background:url(./IMG/blue.png);
+    background-repeat: no-repeat;
+}
+.bluemain{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+}
+.bluetext{
+    font-size: 36px;
+}
+.block2{
+    background: white;
+}
+.block3{
+    background: white;
+}
